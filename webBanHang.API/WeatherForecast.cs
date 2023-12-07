@@ -2,6 +2,7 @@ namespace webBanHang.API;
 
 public class WeatherForecast
 {
+    //key
     public DateOnly Date { get; set; }
 
     public int TemperatureC { get; set; }
